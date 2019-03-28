@@ -1,3 +1,13 @@
+body {
+  font-family: 'Germania One', cursive;
+  display: show;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
 #voting, #underage {
   display: none;
 }
